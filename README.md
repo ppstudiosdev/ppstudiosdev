@@ -30,3 +30,6 @@ We are also supported by many builders and game producers from the Minecraft com
 We are very proud of what we have created and shaped together. We believe that we can create a team structure that synergizes very well together.
 
 PixelPlayer Studios' close ties to the gaming community and the outstanding achievements of our founders position us as a pioneering force in the gaming sector. Through relentless pursuit of excellence, we set standards in developing innovative gaming experiences that captivate and inspire players worldwide.
+
+#
+# PixelPlayer Studios ❤️ Open Source
