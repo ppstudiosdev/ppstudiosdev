@@ -1,5 +1,3 @@
-![Logo](https://media.discordapp.net/attachments/1262316206187352104/1262316449029165146/logo-removebg-preview.png?ex=6696274e&is=6694d5ce&hm=66df4b989dcdb853161efc55d72e9ef0dd677e72572b48616523980b4c04666f&=&format=webp&quality=lossless) 
-
 # THE DEVELOPER STUDIO - PIXELPLAYER STUDIOS
 
 <br>
