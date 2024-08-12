@@ -32,4 +32,16 @@ PixelPlayer Studios' close ties to the gaming community and the outstanding achi
 #
 # PixelPlayer Studios ❤️ Open Source
 
+### OS:
+
+| Linux | Ubuntu | Kali |
+|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
+
+### Tools for CTF's
+ 
+| Wireshark | Netcat | Nmap |
+|----------|----------|----------|
+|<img src="assets/Wireshark_icon.svg.png" alt="wsh" width="55" height="55" /> |<img src="assets/burp.svg" alt="burp" width="85" height="55" /> |<img src="assets/netcat_logo_shadow.svg" alt="netcat" width="55" height="55" /> |<img src="assets/nmap-logo.svg" alt="nmap" width="55" height="55" />|
+
 ![Repos](https://raw.githubusercontent.com/sammorozov/sammorozov/93295f8b496a5f6c442757108ce760cd75ad5f9f/assets/github-snake.svg)
