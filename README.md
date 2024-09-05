@@ -37,5 +37,3 @@ PixelPlayer Studios' close ties to the gaming community and the outstanding achi
 | Linux | Ubuntu | Kali |
 |----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
-
-![Repos](https://raw.githubusercontent.com/sammorozov/sammorozov/93295f8b496a5f6c442757108ce760cd75ad5f9f/assets/github-snake.svg)
