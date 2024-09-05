@@ -19,8 +19,6 @@ At the helm of the studio is RxbbitIT, an experienced Owner with a background in
 
 Another key figure is Sevitar, founder of the renowned FiveM Roleplay server "Slate Roleplay". Known as one of the leading roleplay influencers in the GVMP community, Sevitar gained widespread recognition through his character "Derek Gambino" on platforms like Twitch and YouTube.
 
-Additionally, we are supported by Cutekitten03, Co-Founder of "Mystical Islands" and Moderator on "Origin Realms", whose expertise and dedication contribute significantly to the realization of our visionary projects.
-
 Furthermore, we are privileged to have KadylagLP, a distinguished model based in Mexico, known for their influential presence on Instagram. KadylagLP's influence and reach on social media enrich our team and open new avenues for engaging with our community.
 
 We are also supported by many builders and game producers from the Minecraft community who accompany us on our project journeys, contributing their creativity and expertise to help bring our visions to life.
