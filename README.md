@@ -21,7 +21,7 @@ PixelPlayer Studios stands as a premier studio in the game development industry,
 
 At the helm of the studio is RxbbitIT, an experienced Owner with a background in server management and executive leadership. His deep industry knowledge and commitment to excellence drive PixelPlayer Studios' success.
 
-Another key figure is Sevitar, founder of the renowned FiveM Roleplay server "Slate Roleplay". Known as one of the leading roleplay influencers in the GVMP community, Sevitar gained widespread recognition through his character "Derek Gambino" on platforms like Twitch and YouTube.
+Another key figure is Sevitar, founder of the renowned FiveM Roleplay server "Mavida City". Known as one of the leading roleplay influencers in the GVMP community, Sevitar gained widespread recognition through his character "Derek Gambino" on platforms like Twitch and YouTube.
 
 Furthermore, we are privileged to have KadylagLP, a distinguished model based in Mexico, known for their influential presence on Instagram. KadylagLP's influence and reach on social media enrich our team and open new avenues for engaging with our community.
 
