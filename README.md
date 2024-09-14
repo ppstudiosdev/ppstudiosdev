@@ -8,6 +8,8 @@
   <img align="center" style="padding-left: 5px; padding-right: 5px" alt="Kotlin" width="45px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/18852341021548218200-512.png" />
   <img align="center" style="padding-left: 5px; padding-right: 5px" alt="GitHub" width="45px" src="https://icon-library.com/images/github_png63.png" />
   <img align="center" style="padding-left: 5px; padding-right: 5px" alt="Git" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
+  <img align="center" style="padding-left: 3px; padding-right: 5px" alt="Kubernetes" width="45px" src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" />
+      <img align="center" style="padding-left: 3px; padding-right: 5px" alt="Docker" width="45px" src="https://static-00.iconduck.com/assets.00/docker-icon-2048x2048-5mc7mvtn.png" />
   </div>
 </div>
 <br>
