@@ -6,8 +6,10 @@
   <img align="center" style="padding-left: 5px; padding-right: 5px" alt="Intellij" width="45px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" />
   <img align="center" style="padding-left: 5px; padding-right: 5px" alt="Java" width="45px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/378554371540553613-512.png" />
   <img align="center" style="padding-left: 5px; padding-right: 5px" alt="Kotlin" width="45px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/18852341021548218200-512.png" />
-  <img align="center" style="padding-left: 5px; padding-right: 5px" alt="GitHub" width="45px" src="https://icon-library.com/images/github_png63.png" />
   <img align="center" style="padding-left: 5px; padding-right: 5px" alt="Git" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
+  <img align="center" style="padding-left: 5px; padding-right: 5px" alt="GitHub" width="45px" src="https://icon-library.com/images/github_png63.png" />
+  <img align="center" style="padding-left: 5px; padding-right: 5px" alt="Linux" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
+  <img align="center" style="padding-left: 5px; padding-right: 5px" alt="Ubuntu" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" />
   <img align="center" style="padding-left: 3px; padding-right: 5px" alt="Kubernetes" width="45px" src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" />
       <img align="center" style="padding-left: 3px; padding-right: 5px" alt="Docker" width="45px" src="https://static-00.iconduck.com/assets.00/docker-icon-2048x2048-5mc7mvtn.png" />
   </div>
@@ -30,10 +32,3 @@ We are very proud of what we have created and shaped together. We believe that w
 PixelPlayer Studios' close ties to the gaming community and the outstanding achievements of our founders position us as a pioneering force in the gaming sector. Through relentless pursuit of excellence, we set standards in developing innovative gaming experiences that captivate and inspire players worldwide.
 
 #
-# PixelPlayer Studios ❤️ Open Source
-
-### OS:
-
-| Linux | Ubuntu | Kali |
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
